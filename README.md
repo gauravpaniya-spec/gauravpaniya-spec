@@ -1,66 +1,107 @@
-# Gaurav Paniya | Data Science & Software Engineering Portfolio
+# Hi, I'm Gaurav Paniya 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-Hi, I'm Gaurav Paniya! 👋 I am an undergraduate student pursuing a B.Tech in Computer Science and Engineering with a specialization in Data Science at JIET, Jodhpur. I am passionate about transforming raw data into actionable insights and building data-driven applications to solve real-world problems.
+💻 Data Science & Software Engineering Enthusiast  
+📊 Turning Data into Insights | 🤖 ML Builder | 🌐 Web Developer  
+📍 Jodhpur, Rajasthan, India  
+
+---
+
+## 🚀 About Me
+I am an undergraduate student pursuing B.Tech in Computer Science and Engineering (Data Science) at JIET, Jodhpur.  
+I love working on **Machine Learning, Data Analytics, and Web Apps** that solve real-world problems.
+
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
+
+- 🔭 Currently working on Data Science projects  
+- 🌱 Learning Machine Learning & Full Stack Web Development  
+- 📊 Interested in Data Visualization & AI Applications  
+- ⚡ Fun fact: I turn coffee ☕ into code 💻  
+
+---
+
+## 🧠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,javascript,flask,mysql,git,github,vscode" />
+</p>
+
+---
 
 ## 🚀 Featured Projects
 
-### 1. Data Lens – Modern Data Analytics Web Application
-A fully responsive, user-friendly data analytics web dashboard that simplifies how users interact with and understand datasets.
-* **Key Features:** * Interactive data cleaning (null values and duplicate removal).
-    * Dynamic visualizations (bar, line, pie charts, and histograms).
-    * Statistical analysis reporting (mean, median, mode, standard deviation).
-    * User authentication with light/dark mode.
-* **Tech Stack:** Python, Flask, SQLite, HTML, CSS, JavaScript, Chart.js / Plotly
+### 📊 Data Lens – Analytics Dashboard
+> Smart web dashboard for data analysis & visualization  
+- Data cleaning, null handling, duplicates removal  
+- Interactive charts (Bar, Pie, Line, Histogram)  
+- Login system + Dark Mode UI  
 
-### 2. House Price Prediction Model
-A Machine Learning regression project built to accurately forecast housing market prices.
-* **Key Features:**
-    * End-to-end data preprocessing, cleaning, and handling categorical noise.
-    * Feature engineering and selection utilizing correlation matrices.
-    * Trained and evaluated using Linear Regression (achieved stable train/test consistency with an $R^2$ score of ~0.61).
-* **Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Matplotlib
-
-### 3. Weekly Temperature Analysis of Rajasthan
-A regional data visualization project tracking and analyzing temperature trends across major cities in Rajasthan.
-* **Key Features:**
-    * Identified uniform weekly temperature growth patterns and plateaus.
-    * Ranked cities by peak heat indices (Kota, Jodhpur, Nagaur, Jaipur).
-* **Tech Stack:** Python, Matplotlib
-
-### 4. IPL Performance Analysis (2021–2025)
-A sports analytics mini-project tracking and comparing the 5-year performance consistency of Virat Kohli and Rohit Sharma.
-* **Tech Stack:** Python, Matplotlib
+🛠 Python | Flask | SQLite | Chart.js  
 
 ---
 
-## 🛠️ Technical Skills
+### 🏠 House Price Prediction
+- ML Regression model for price prediction  
+- Feature engineering + correlation analysis  
+- Achieved R² score ~0.61  
 
-* **Programming Languages:** Python, C
-* **Data Science & Machine Learning:** NumPy, Pandas, Scikit-learn, Linear Regression, Feature Engineering
-* **Databases & Querying:** MySQL, SQLite
-* **Web Development & Tools:** Flask, Git, HTML, CSS, JavaScript
-* **Data Visualization:** Matplotlib, Plotly, Chart.js, Microsoft Excel 365
-
----
-
-## 📜 Certifications & Achievements
-
-* **NPTEL Elite Certificate:** Soft Skill Development (IIT Kharagpur) — *Score: 66%*
-* **NPTEL Certificate:** Emotional Intelligence (IIT Kharagpur) — *Score: 63%*
-* **Infosys Springboard:** MySQL Database Design and Implementation Project
-* **Microsoft Learn Student Ambassadors:** Git and Python Student Plans Program
-* **JIET Summer Training:** Mastering Excel 365 & Data Analysis
+🛠 Python | Pandas | Scikit-learn | Matplotlib  
 
 ---
 
-## 📈 Technical Assessment Highlights
-* **NumPy Skill Assessment:** Achieved an Upper-Intermediate level score of **~85%**, mastering vectorized computations, boolean masking, broadcasting, and matrix transformations.
+### 🌡 Rajasthan Temperature Analysis
+- City-wise heat trend visualization  
+- Weekly pattern analysis  
 
 ---
 
-## 🤝 Connect with Me
+### 🏏 IPL Data Analysis (2021–2025)
+- Player performance comparison  
+- Statistical insights using graphs  
 
-* **LinkedIn:** [Gaurav Paniya on LinkedIn](https://www.linkedin.com/in/gaurav-paniya-15967b226)
-* **Location:** Jodhpur, Rajasthan, India
+---
 
-*"Continuous improvement > Comfort zone. On the path to becoming a better data-driven learner!"*
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+## 📜 Certifications
+- NPTEL Elite – Soft Skills (IIT Kharagpur) 🎓  
+- Emotional Intelligence (IIT Kharagpur) 🧠  
+- Infosys Springboard – MySQL Project 💾  
+- Microsoft Learn – Python & Git 🚀  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+## ✨ Quote
+
+> *“Continuous improvement > Comfort zone. On the path to becoming a better data-driven engineer.”*
+
+---
+
+⭐ If you like my work, don't forget to star my repositories!
